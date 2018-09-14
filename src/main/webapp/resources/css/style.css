@@ -1,0 +1,130 @@
+body {
+    background-color: #4dacff;    
+    font-size: 1.1em;
+}
+h1 {
+    color: coral;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orange;
+}
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    padding: 14px 14px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #6b5fb9;
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding: 14px 28px;
+}
+.topnav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+.topnav input[type=Number] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+.topnav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px; 
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 5px; 
+}
+
+.form-heading { 
+ color:#fff; 
+ font-size:23px;
+}
+.panel h2{ 
+ color:#444444; 
+ font-size:18px; 
+ margin:0 0 8px 0;
+}
+.panel p { 
+ color:#777777; 
+ font-size:14px; 
+ margin-bottom:30px; 
+ line-height:24px;
+}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form { 
+  text-align:center;
+}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #EE82EE none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.forgot {
+  text-align: left; 
+  margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background-color : #ff9900 none repeat scroll 0 0;
+}
+.back { 
+ text-align: left; 
+ margin-top:10px;
+}
+.back a { 
+ color: #444444; 
+ font-size: 13px;
+ text-decoration: none;
+}
